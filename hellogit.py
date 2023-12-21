@@ -1,1 +1,1 @@
-print("Ahora estoy cambiando este fichero")
+print("New Hello Git changes")
