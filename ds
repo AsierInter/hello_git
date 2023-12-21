@@ -1,0 +1,73 @@
+[33mcommit e93d2bc75c10570d501a475744c028f38efe9d66[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: AsierPV <aparragav@intermunicipal.com>
+Date:   Thu Dec 21 18:13:39 2023 +0100
+
+    Login v2
+
+[33mcommit e725197b671961c77e62ed9278b70a15d8ed4902[m
+Merge: 05d88c5 e430966
+Author: AsierPV <aparragav@intermunicipal.com>
+Date:   Thu Dec 21 18:00:45 2023 +0100
+
+    Corrección conflicto
+
+[33mcommit e430966db27c6e1c736d9c0a79f9b95a3e6c20e4[m
+Author: AsierPV <aparragav@intermunicipal.com>
+Date:   Thu Dec 21 17:55:16 2023 +0100
+
+    que es esto
+
+[33mcommit 05d88c5836d02e683bde34f6f46cae08a4e8b943[m
+Author: AsierPV <aparragav@intermunicipal.com>
+Date:   Thu Dec 21 17:50:40 2023 +0100
+
+    commit de ejemplo
+
+[33mcommit d82c148498f62420fca7b73d211bd4b730a70586[m
+Merge: acdc0c3 2cddae3
+Author: AsierPV <aparragav@intermunicipal.com>
+Date:   Thu Dec 21 17:45:32 2023 +0100
+
+    commit para el merge
+
+[33mcommit 2cddae3313831accd327ff84b470c346a9894eb4[m
+Author: AsierPV <aparragav@intermunicipal.com>
+Date:   Thu Dec 21 17:39:41 2023 +0100
+
+    Hellogit3V2
+
+[33mcommit acdc0c37276bb7f9bc13b644aef9b38a5d8abf86[m
+Author: AsierPV <aparragav@intermunicipal.com>
+Date:   Thu Dec 21 17:21:24 2023 +0100
+
+    commit del login
+
+[33mcommit e1aa928dd27f15d31e64092ce9a7aa3c9c975775[m
+Author: AsierPV <aparragav@intermunicipal.com>
+Date:   Thu Dec 21 16:49:46 2023 +0100
+
+    NONONONO o si
+
+[33mcommit 390a41c6f6ae793d7a576704bdf68b389ed17569[m[33m ([m[1;33mtag: clase_1[m[33m)[m
+Author: AsierPV <aparragav@intermunicipal.com>
+Date:   Thu Dec 21 16:44:01 2023 +0100
+
+    Se añade el .gitignore
+
+[33mcommit 065ba09b7e8a0c8b1aa1fc328fdf483d6ac5c35f[m
+Author: AsierPV <aparragav@intermunicipal.com>
+Date:   Thu Dec 21 16:35:45 2023 +0100
+
+    Este es mi tercer commit
+
+[33mcommit 9c16d7d5073613cf4bd1d52d41d93339e6d3ffb2[m
+Author: AsierPV <aparragav@intermunicipal.com>
+Date:   Thu Dec 21 16:21:50 2023 +0100
+
+    Este es mi segundo commit
+
+[33mcommit 1b6d3e8fa0a5f19206bf95de2da270c73f43f475[m
+Author: AsierPV <aparragav@intermunicipal.com>
+Date:   Thu Dec 21 16:18:30 2023 +0100
+
+    Este es mi primer commit
